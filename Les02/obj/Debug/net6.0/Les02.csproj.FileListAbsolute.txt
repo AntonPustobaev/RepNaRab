@@ -1,0 +1,15 @@
+C:\Сgit\Lesons\Les02\obj\Debug\net6.0\Les02.csproj.AssemblyReference.cache
+C:\Сgit\Lesons\Les02\obj\Debug\net6.0\Les02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сgit\Lesons\Les02\obj\Debug\net6.0\Les02.AssemblyInfoInputs.cache
+C:\Сgit\Lesons\Les02\obj\Debug\net6.0\Les02.AssemblyInfo.cs
+C:\Сgit\Lesons\Les02\obj\Debug\net6.0\Les02.csproj.CoreCompileInputs.cache
+C:\Сgit\Lesons\Les02\bin\Debug\net6.0\Les02.exe
+C:\Сgit\Lesons\Les02\bin\Debug\net6.0\Les02.deps.json
+C:\Сgit\Lesons\Les02\bin\Debug\net6.0\Les02.runtimeconfig.json
+C:\Сgit\Lesons\Les02\bin\Debug\net6.0\Les02.dll
+C:\Сgit\Lesons\Les02\bin\Debug\net6.0\Les02.pdb
+C:\Сgit\Lesons\Les02\obj\Debug\net6.0\Les02.dll
+C:\Сgit\Lesons\Les02\obj\Debug\net6.0\refint\Les02.dll
+C:\Сgit\Lesons\Les02\obj\Debug\net6.0\Les02.pdb
+C:\Сgit\Lesons\Les02\obj\Debug\net6.0\Les02.genruntimeconfig.cache
+C:\Сgit\Lesons\Les02\obj\Debug\net6.0\ref\Les02.dll

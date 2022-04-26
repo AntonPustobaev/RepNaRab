@@ -1,0 +1,15 @@
+C:\Сgit\Lesons\les03\bin\Debug\net6.0\les03.exe
+C:\Сgit\Lesons\les03\bin\Debug\net6.0\les03.deps.json
+C:\Сgit\Lesons\les03\bin\Debug\net6.0\les03.runtimeconfig.json
+C:\Сgit\Lesons\les03\bin\Debug\net6.0\les03.dll
+C:\Сgit\Lesons\les03\bin\Debug\net6.0\les03.pdb
+C:\Сgit\Lesons\les03\obj\Debug\net6.0\les03.csproj.AssemblyReference.cache
+C:\Сgit\Lesons\les03\obj\Debug\net6.0\les03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сgit\Lesons\les03\obj\Debug\net6.0\les03.AssemblyInfoInputs.cache
+C:\Сgit\Lesons\les03\obj\Debug\net6.0\les03.AssemblyInfo.cs
+C:\Сgit\Lesons\les03\obj\Debug\net6.0\les03.csproj.CoreCompileInputs.cache
+C:\Сgit\Lesons\les03\obj\Debug\net6.0\les03.dll
+C:\Сgit\Lesons\les03\obj\Debug\net6.0\refint\les03.dll
+C:\Сgit\Lesons\les03\obj\Debug\net6.0\les03.pdb
+C:\Сgit\Lesons\les03\obj\Debug\net6.0\les03.genruntimeconfig.cache
+C:\Сgit\Lesons\les03\obj\Debug\net6.0\ref\les03.dll

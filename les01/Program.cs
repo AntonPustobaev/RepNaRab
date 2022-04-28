@@ -1,18 +1,29 @@
-﻿int a, b;
+﻿Console.Clear();
 
-Console.WriteLine ("Введите числа: ");
+int size = 10;
 
-a = Convert.ToInt32(Console.ReadLine());
-
-b = Convert.ToInt32(Console.ReadLine());
-
-if (a > b)
+int[] FillArray(int size)
 {
-    Console.WriteLine($"max  {a}");
-    Console.WriteLine($"min  {b}");
+    int[] array = new int[size];
+    for (int i = 0; i < size; i++)
+    {
+        array[i] = new Random().Next(1, 100);
+    }
+    return array;
 }
-else 
+
+void PrintArray(int[] arr)
 {
-    Console.WriteLine($"max  {b}");
-    Console.WriteLine($"min  {a}");
+    int sum = 0;
+    System.Console.WriteLine();
+    for (int i = 0; i < size; i++)
+    {
+        System.Console.Write(arr[i] + " ");
+        if (i % 2 > 0) sum += arr[i];
+    }
+    System.Console.WriteLine();
+    System.Console.WriteLine($"Сумма чисел, стоящих на нечетной позиции, соcтаваляет {sum} ");
+    System.Console.WriteLine();
 }
+
+PrintArray(FillArray(size));

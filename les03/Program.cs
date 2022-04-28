@@ -15,12 +15,6 @@ while(a<12)
     a=a+1;
 }
 
-
-
-
-
-
-
 int[] GetArray(int size, int minValue, int maxValue)
 {
     int[] res = new int[size];
